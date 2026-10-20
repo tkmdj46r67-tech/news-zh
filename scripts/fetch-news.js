@@ -35,10 +35,34 @@ const FEEDS = [
 ];
 
 // ── 2. 关键词归类（覆盖 infra / 气候 / 供应链）────────────────
+// Order matters: JS iterates object keys in insertion order, so put the
+// most specific buckets first. An article matching two categories lands
+// in whichever bucket is checked first.
 const KEYWORDS = {
-  基建: ['基建', '高铁', '铁路', '公路', '大桥', '水利', '工程', '投资', '港口', '机场', '电站'],
-  气候: ['气候', '碳达峰', '碳中和', '气象', '环保', '绿色', '排放', '生态', '新能源'],
-  供应链: ['供应链', '产业链', '物流', '芯片', '半导体', '外贸', '出口', '进口', '制造业'],
+  'Supply Chain': [
+    '供应链', '产业链', '物流', '芯片', '半导体', '外贸', '出口', '进口', '制造业',
+  ],
+  'Climate': [
+    '气候', '碳达峰', '碳中和', '气象', '环保', '绿色', '排放', '生态', '新能源',
+  ],
+  'Infrastructure': [
+    '基建', '高铁', '铁路', '公路', '大桥', '水利', '工程', '投资', '港口', '机场', '电站',
+  ],
+  'American Economy': [
+    '美联储', '美元指数', '美股', '纳斯达克', '道琼斯', '标普500',
+    '美国通胀', '美国财政部', '美国失业率', '美国GDP',
+  ],
+  'American Foreign Policy': [
+    '布林肯', '美国国务卿', '美国国务院', '美国防长', '五角大楼',
+    '中美关系', '美中关系', '美国外交',
+  ],
+  'American Politics': [
+    '特朗普', '拜登', '哈里斯', '白宫', '美国国会', '美国大选',
+    '共和党', '民主党', '众议院', '参议院', '美国总统',
+  ],
+  'Global Economy': [
+    '全球经济', 'IMF', '世界银行', '世贸组织', 'WTO', 'G20',
+  ],
 };
 
 function refineCategory(item) {
@@ -119,7 +143,7 @@ async function main() {
     }
 
     // 每个源最多取前 8 条，防止单一源垄断
-    for (const item of parsed.items.slice(0, 8)) {
+    for (const item of parsed.items.slice(0, 12)) {
       if (!item.link || seenLinks.has(item.link)) continue;
       seenLinks.add(item.link);
 
@@ -140,10 +164,10 @@ async function main() {
 
   // 按发布时间倒序，取前 20 条
   collected.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  const top20 = collected.slice(0, 20);
+  const top40 = collected.slice(0, 40);
 
   // 逐篇提取正文首段（加延迟，避免请求过密）
-  for (const story of top20) {
+  for (const story of top40) {
     const { subheading, firstParagraph } = await extractArticle(story.link);
     story.subheading = subheading;
     story.firstParagraph = firstParagraph;
@@ -151,8 +175,8 @@ async function main() {
     await sleep(400);
   }
 
-  fs.writeFileSync('data.json', JSON.stringify(top20, null, 2), 'utf-8');
-  console.log(`✅ 已写入 data.json，共 ${top20.length} 条`);
+  fs.writeFileSync('data.json', JSON.stringify(top40, null, 2), 'utf-8');
+  console.log(`✅ Wrote data.json with ${top40.length} stories`);
 }
 
 main().catch((e) => {
