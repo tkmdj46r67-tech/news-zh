@@ -1,0 +1,39 @@
+name: 抓取中国新闻 Top 20
+
+on:
+  schedule:
+    # 每 6 小时运行一次（UTC 时间）
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # 允许在 Actions 页面手动触发
+
+# 关键：必须授予写权限，否则无法 commit & push
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm' # 需要 package-lock.json 或 package.json
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 执行提取脚本
+        run: node scripts/fetch-news.js
+
+      - name: 提交 data.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: 自动更新新闻数据'
+          file_pattern: data.json
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: '41898282+github-actions[bot]@users.noreply.github.com'
