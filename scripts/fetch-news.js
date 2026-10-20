@@ -14,33 +14,24 @@ const parser = new Parser({
 // RSSHub 公共实例在中国大陆可能被屏蔽，见文末「注意事项」。
 // 如果某个源失效，换成备用源或自托管 RSSHub 地址即可。
 const FEEDS = [
-  // 全国政治 / 时政
-  { url: 'http://www.people.com.cn/rss/politics.xml', category: '时政' },
-  {
-    url: 'https://rsshub.app/thepaper/channel/25950', // 澎湃「时事」
-    category: '时政',
-  },
+  // ── Original feeds ────────────────────────────────────────
+  { url: 'http://www.people.com.cn/rss/politics.xml', category: 'Politics' },
+  { url: 'https://rsshub.app/thepaper/channel/25950', category: 'Politics' },
+  { url: 'https://rsshub.app/thepaper/channel/26161', category: 'Foreign Policy' },
+  { url: 'http://www.people.com.cn/rss/world.xml', category: 'Foreign Policy' },
+  { url: 'https://rsshub.app/caixin/latest', category: 'Politics' },
+  { url: 'https://rsshub.app/thepaper/channel/25951', category: 'Economy' },
 
-  // 外交 / 国际
-  {
-    url: 'https://rsshub.app/thepaper/channel/26161', // 澎湃「国际」
-    category: '外交',
-  },
-  // 人民网国际 RSS 是官方老源，偶有停更，保留作备用
-  { url: 'http://www.people.com.cn/rss/world.xml', category: '外交' },
+  // ── New feeds ─────────────────────────────────────────────
+  // Global economy
+  { url: 'https://rsshub.app/wallstreetcn/news/global', category: 'Global Economy' },
+  { url: 'https://rsshub.app/yicai/brief', category: 'Global Economy' },
 
-  // 其他重大政治（财经/调查类视角）
-  {
-    url: 'https://rsshub.app/caixin/latest', // 财新最新
-    category: '政治',
-  },
-
-  // 基础设施 / 气候 / 供应链：没有专属稳定 RSS，
-  // 用财新 + 澎湃财经频道打底，再靠关键词二次归类
-  {
-    url: 'https://rsshub.app/thepaper/channel/25951', // 澎湃「财经」
-    category: '经济',
-  },
+  // American politics / foreign policy
+  // (Chinese outlets cover US news inside their world sections;
+  //  the keyword pass promotes US-specific items to the right bucket)
+  { url: 'https://rsshub.app/guancha/headline', category: 'American Politics' },
+  { url: 'https://rsshub.app/huanqiu/news', category: 'American Foreign Policy' },
 ];
 
 // ── 2. 关键词归类（覆盖 infra / 气候 / 供应链）────────────────
