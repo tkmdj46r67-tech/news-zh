@@ -285,7 +285,7 @@
         geoLayer = L.geoJSON(geojson, {
           style: { fillColor: '#f0f0f0', color: '#bbb', weight: 0.5, fillOpacity: 1 },
           onEachFeature: (feature, layer) => {
-            const n = feature.properties && feature.properties.name;
+            const n = feature.properties && feature.properties['地名'];
             if (n) nameToLayer[n] = layer;
           },
         }).addTo(map);
