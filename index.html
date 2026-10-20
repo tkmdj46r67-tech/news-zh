@@ -114,7 +114,7 @@
       font-variant-numeric: tabular-nums;
       letter-spacing: 0.02em;
     }
-        .clock-tz {
+    .clock-tz {
       font-size: 0.75rem;
       color: var(--muted);
       margin-top: 0.3rem;
@@ -160,13 +160,13 @@
         <div class="panel-title">北京时间</div>
         <div class="clock-date" id="clock-date">—</div>
         <div class="clock-time" id="clock-time">—</div>
+        <div class="clock-tz" id="clock-tz">—</div>
       </div>
 
-            <div class="panel">
-        <div class="panel-title">北京时间</div>
-        <div class="clock-date" id="clock-date">—</div>
-        <div class="clock-time" id="clock-time">—</div>
-        <div class="clock-tz" id="clock-tz">—</div>
+      <div class="panel">
+        <div class="panel-title">中国地图</div>
+        <div id="map" class="map"></div>
+        <div class="map-status" id="map-status">悬停文章查看地点</div>
       </div>
     </aside>
   </div>
@@ -174,7 +174,6 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
   // ─────────────────────────────────────────────────────────────
-    // ─────────────────────────────────────────────────────────────
   // 1. Clock — China uses a single timezone (Asia/Shanghai, UTC+8)
   //    Date is rendered once at load (avoids browser-translation
   //    flicker). Time re-renders once per minute, no seconds.
