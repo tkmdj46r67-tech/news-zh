@@ -114,6 +114,11 @@
       font-variant-numeric: tabular-nums;
       letter-spacing: 0.02em;
     }
+        .clock-tz {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-top: 0.3rem;
+    }
     .map {
       height: 260px;
       width: 100%;
@@ -157,10 +162,11 @@
         <div class="clock-time" id="clock-time">—</div>
       </div>
 
-      <div class="panel">
-        <div class="panel-title">中国地图</div>
-        <div id="map" class="map"></div>
-        <div class="map-status" id="map-status">悬停文章查看地点</div>
+            <div class="panel">
+        <div class="panel-title">北京时间</div>
+        <div class="clock-date" id="clock-date">—</div>
+        <div class="clock-time" id="clock-time">—</div>
+        <div class="clock-tz" id="clock-tz">—</div>
       </div>
     </aside>
   </div>
@@ -168,25 +174,53 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
   // ─────────────────────────────────────────────────────────────
+    // ─────────────────────────────────────────────────────────────
   // 1. Clock — China uses a single timezone (Asia/Shanghai, UTC+8)
+  //    Date is rendered once at load (avoids browser-translation
+  //    flicker). Time re-renders once per minute, no seconds.
   // ─────────────────────────────────────────────────────────────
   const clockDateEl = document.getElementById('clock-date');
   const clockTimeEl = document.getElementById('clock-time');
+  const clockTZEl   = document.getElementById('clock-tz');
+
   const dateFmt = new Intl.DateTimeFormat('zh-CN', {
     timeZone: 'Asia/Shanghai', year: 'numeric', month: 'long',
     day: 'numeric', weekday: 'short'
   });
   const timeFmt = new Intl.DateTimeFormat('zh-CN', {
-    timeZone: 'Asia/Shanghai', hour: '2-digit', minute: '2-digit',
-    second: '2-digit', hour12: false
+    timeZone: 'Asia/Shanghai', hour: '2-digit', minute: '2-digit', hour12: false
   });
-  function tickClock() {
-    const now = new Date();
-    clockDateEl.textContent = dateFmt.format(now);
-    clockTimeEl.textContent = timeFmt.format(now);
+
+  // Offset (minutes) of an IANA timezone from UTC at `date`.
+  function tzOffsetMinutes(date, timeZone) {
+    const utc   = new Date(date.toLocaleString('en-US', { timeZone: 'UTC' }));
+    const local = new Date(date.toLocaleString('en-US', { timeZone }));
+    return (local - utc) / 60000;
   }
-  tickClock();
-  setInterval(tickClock, 1000);
+
+  function renderClock() {
+    const now = new Date();
+    clockTimeEl.textContent = timeFmt.format(now);
+
+    // Delta vs US Pacific — America/Los_Angeles tracks PST↔PDT.
+    // Use 'Etc/GMT+8' instead if you want a fixed 16-hour delta year-round.
+    const diffMin = tzOffsetMinutes(now, 'Asia/Shanghai')
+                  - tzOffsetMinutes(now, 'America/Los_Angeles');
+    const diffHours = Math.round(diffMin / 60);
+    const dir = diffHours >= 0 ? '快' : '慢';
+    clockTZEl.textContent =
+      `UTC+8 · 比美西时间${dir} ${Math.abs(diffHours)} 小时`;
+  }
+
+  // Date — once, never updates
+  clockDateEl.textContent = dateFmt.format(new Date());
+
+  // Time — render now, then align to the next minute boundary, then every 60s
+  renderClock();
+  setTimeout(() => {
+    renderClock();
+    setInterval(renderClock, 60_000);
+  }, 60_000 - (Date.now() % 60_000));
 
   // ─────────────────────────────────────────────────────────────
   // 2. Map + province detection
