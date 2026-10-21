@@ -1,4 +1,4 @@
-name: Fetch China News Top 20
+name: Fetch China News Top 40
 
 on:
   schedule:
