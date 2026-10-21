@@ -190,7 +190,6 @@
     timeZone: 'Asia/Shanghai', hour: '2-digit', minute: '2-digit', hour12: false
   });
 
-  // Offset (minutes) of an IANA timezone from UTC at `date`.
   function tzOffsetMinutes(date, timeZone) {
     const utc   = new Date(date.toLocaleString('en-US', { timeZone: 'UTC' }));
     const local = new Date(date.toLocaleString('en-US', { timeZone }));
@@ -201,8 +200,6 @@
     const now = new Date();
     clockTimeEl.textContent = timeFmt.format(now);
 
-    // Delta vs US Pacific — America/Los_Angeles tracks PST↔PDT.
-    // Use 'Etc/GMT+8' instead if you want a fixed 16-hour delta year-round.
     const diffMin = tzOffsetMinutes(now, 'Asia/Shanghai')
                   - tzOffsetMinutes(now, 'America/Los_Angeles');
     const diffHours = Math.round(diffMin / 60);
@@ -211,10 +208,8 @@
       `UTC+8 · 比美西时间${dir} ${Math.abs(diffHours)} 小时`;
   }
 
-  // Date — once, never updates
   clockDateEl.textContent = dateFmt.format(new Date());
 
-  // Time — render now, then align to the next minute boundary, then every 60s
   renderClock();
   setTimeout(() => {
     renderClock();
@@ -233,9 +228,6 @@
   let highlightedLayer = null;
   const nameToLayer = {};
 
-  // Canonical names must match the `properties['地名']` values in
-  // china-provinces.json. Aliases are unordered; detection picks the
-  // alias whose position in the text is earliest.
   const PROVINCE_ALIASES = [
     ['北京', '北京市'],
     ['天津', '天津市'],
@@ -273,7 +265,6 @@
     ['澳门', '澳门特别行政区'],
   ];
 
-  // Returns the canonical province name of the earliest alias found in text.
   function detectProvince(text) {
     if (!text) return null;
     let bestPos = Infinity;
@@ -333,7 +324,6 @@
         geoLayer = L.geoJSON(geojson, {
           style: { fillColor: '#f0f0f0', color: '#bbb', weight: 0.5, fillOpacity: 1 },
           onEachFeature: (feature, layer) => {
-            // cn-atlas stores the Chinese name under 地名, not name
             const n = feature.properties &&
                       (feature.properties['地名'] || feature.properties.name);
             if (n) nameToLayer[n] = layer;
@@ -350,7 +340,7 @@
   // ─────────────────────────────────────────────────────────────
   // 3. Stories
   // ─────────────────────────────────────────────────────────────
-    const CATEGORY_LABELS = {
+  const CATEGORY_LABELS = {
     'Politics':                '时政',
     'Foreign Policy':          '外交',
     'Infrastructure':          '基建',
@@ -426,7 +416,6 @@
           ${para}
         `;
 
-        // Combined text used for location detection.
         div.dataset.searchText =
           [s.title, s.subheading, s.firstParagraph].filter(Boolean).join(' ');
 
