@@ -11,39 +11,26 @@ const parser = new Parser({
 });
 
 // ── 1. RSS feed configuration ─────────────────────────────────
-// RSSHub public instance (rsshub.app) may be blocked in mainland China —
-// see notes after the file. Swap any failing route for a working one.
+// Replaced dead people.com.cn and failing rsshub.app feeds with
+// reliable alternatives (AnyFeeder mirror + direct official feeds).
 const FEEDS = [
-  // ── National politics / current affairs ───────────────────
-  { url: 'http://www.people.com.cn/rss/politics.xml', category: 'Politics' },
-  { url: 'https://rsshub.app/thepaper/channel/25950', category: 'Politics' },
+  // Politics & Current Affairs
+  { url: 'https://plink.anyfeeder.com/people', category: 'Politics' },
+  { url: 'https://www.thepaper.cn/rss.xml', category: 'Politics' },
+  { url: 'https://rss.sina.com.cn/news/china/focus15.xml', category: 'Politics' },
+  { url: 'https://rss.ifeng.com/news/politics', category: 'Politics' },
 
-  // ── China foreign policy / international ──────────────────
-  { url: 'https://rsshub.app/thepaper/channel/26161', category: 'Foreign Policy' },
-  { url: 'http://www.people.com.cn/rss/world.xml', category: 'Foreign Policy' },
+  // Foreign Policy & World
+  { url: 'https://plink.anyfeeder.com/zaobao/realtime/world', category: 'Foreign Policy' },
+  { url: 'https://rss.sina.com.cn/news/world/focus15.xml', category: 'Foreign Policy' },
+  { url: 'https://rss.ifeng.com/news/world', category: 'Foreign Policy' },
 
-  // ── Other political (business / investigative angle) ──────
-  { url: 'https://rsshub.app/caixin/latest', category: 'Politics' },
-
-  // ── Economy base feed ─────────────────────────────────────
-  // Feeds infra / climate / supply-chain and the American buckets via keywords
-  { url: 'https://rsshub.app/thepaper/channel/25951', category: 'Economy' },
-
-  // ── Global economy ────────────────────────────────────────
-  { url: 'https://rsshub.app/wallstreetcn/news/global', category: 'Global Economy' },
-  { url: 'https://rsshub.app/yicai/brief', category: 'Global Economy' },
-
-  // ── American politics / foreign policy / economy ──────────
-  // Chinese outlets fold US coverage into world & business sections,
-  // so the keyword pass does most of the categorization work here.
-  { url: 'https://rsshub.app/guancha/headline', category: 'American Politics' },
-  { url: 'https://rsshub.app/huanqiu/news', category: 'American Foreign Policy' },
+  // Economy & Business
+  { url: 'https://gateway.caixin.com/api/data/global/feedlyRss.xml', category: 'Economy' },
+  { url: 'https://plink.anyfeeder.com/zaobao/realtime/business', category: 'Global Economy' },
 ];
 
 // ── 2. Keyword-based re-classification ────────────────────────
-// Iteration order = priority order. More specific buckets first, so
-// (e.g.) a Blinken story lands in American Foreign Policy rather
-// than the broader American Politics.
 const KEYWORDS = {
   'Supply Chain': [
     '供应链', '产业链', '物流', '芯片', '半导体', '外贸', '出口', '进口', '制造业',
@@ -92,7 +79,6 @@ async function extractArticle(url) {
     });
     const $ = cheerio.load(html);
 
-    // Subheading: try common class / tag combinations
     const subheading =
       $('[class*="subtitle"], [class*="sub-title"], [class*="subhead"]')
         .first()
@@ -101,15 +87,9 @@ async function extractArticle(url) {
       $('h2').first().text().trim() ||
       '';
 
-    // First paragraph: prefer common article-body containers; fall back
-    // to first long <p> in the document.
     const containers = [
-      '.article-content p',
-      '.content p',
-      '#content p',
-      '.post-content p',
-      'article p',
-      '.main-content p',
+      '.article-content p', '.content p', '#content p',
+      '.post-content p', 'article p', '.main-content p',
     ];
     let firstParagraph = '';
     for (const sel of containers) {
@@ -124,7 +104,7 @@ async function extractArticle(url) {
         const t = $(el).text().trim();
         if (t.length > 30) {
           firstParagraph = t;
-          return false; // break
+          return false;
         }
       });
     }
@@ -140,30 +120,41 @@ async function extractArticle(url) {
 async function main() {
   const collected = [];
   const seenLinks = new Set();
+  const MAX_AGE_DAYS = 3; // Ignore anything older than 3 days
 
   for (const feed of FEEDS) {
     let parsed;
     try {
       parsed = await parser.parseURL(feed.url);
     } catch (e) {
-      console.warn(`RSS fetch failed ${feed.url}: ${e.message}`);
+      console.warn(`❌ RSS fetch failed ${feed.url}: ${e.message}`);
       continue;
     }
 
-    // Cap at 12 items per feed. With 10 feeds that's ≤120 raw items,
-    // sorted by date and then trimmed to 40.
-    for (const item of parsed.items.slice(0, 12)) {
-      if (!item.link || seenLinks.has(item.link)) continue;
-      seenLinks.add(item.link);
+    let feedCount = 0;
 
+    for (const item of parsed.items) {
+      if (!item.link || seenLinks.has(item.link)) continue;
+
+      const rawDate = item.pubDate || item.isoDate;
+      const parsedDate = rawDate ? new Date(rawDate) : null;
+
+      // STRICT DATE FILTER: Skip items with no date, invalid dates, or dates older than MAX_AGE_DAYS
+      if (!parsedDate || isNaN(parsedDate.getTime())) continue;
+      const ageDays = (Date.now() - parsedDate.getTime()) / 86_400_000;
+      if (ageDays > MAX_AGE_DAYS) continue;
+
+      seenLinks.add(item.link);
       collected.push({
         title: item.title?.trim() || '',
         link: item.link,
-        pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
+        pubDate: parsedDate.toISOString(),
         category: feed.category,
         contentSnippet: item.contentSnippet || item.content || '',
       });
+      feedCount++;
     }
+    console.log(`✅ ${feed.url} -> ${feedCount} fresh items`);
   }
 
   // Keyword re-classification
@@ -175,7 +166,8 @@ async function main() {
   collected.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   const top40 = collected.slice(0, 40);
 
-  // Fetch each article's first paragraph, with a small delay between requests
+  console.log(`📊 Total fresh items collected: ${collected.length}. Extracting top ${top40.length}...`);
+
   for (const story of top40) {
     const { subheading, firstParagraph } = await extractArticle(story.link);
     story.subheading = subheading;
