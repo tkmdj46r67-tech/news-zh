@@ -1,19 +1,219 @@
 [
   {
+    "title": "伊朗提交核问题方案：美方须先满足七大条件",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959074",
+    "pubDate": "2026-11-06T11:56:16.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "（迪拜综合电）伊朗高级安全官员说，已通过卡塔尔调解人向美国提交一份核提案，但美方必须先满足德黑兰提出的七项要求，双方才能就此展开讨论。"
+  },
+  {
+    "title": "金融监管总局拟进一步完善保险公司董监高准入管理",
+    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829341.html",
+    "pubDate": "2026-11-06T11:49:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电（记者张千千）国家金融监督管理总局11月6日对外发布《保险公司董事、监事和高级管理人员任职资格管理办法（征求意见稿）》，拟进一步完善保险公司董事、监事和高级管理人员准入管理，并向社会公开征求意见。"
+  },
+  {
+    "title": "全国人民代表大会常务委员会任免名单",
+    "link": "http://politics.people.com.cn/n1/2026/1106/c461001-40829337.html",
+    "pubDate": "2026-11-06T11:42:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "（2026年11月6日第十四届全国人民代表大会常务委员会第二十五次会议通过）"
+  },
+  {
+    "title": "欧洲机场再传炸弹威胁 丹麦警方展开调查",
+    "link": "https://www.zaobao.com/news/world/story20261106-9960270",
+    "pubDate": "2026-11-06T11:25:29.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "欧洲多国航班接连遭遇炸弹威胁，星期五再度遭遇大规模炸弹威胁，部分客机被迫改道降落，匈牙利更出动战斗机护航。西班牙外长阿尔瓦雷斯认为，这波事件可能涉及针对欧洲的“混合攻击”和“心理战”，但幕后黑手身份仍未查明。"
+  },
+  {
+    "title": "民主党大胜冲击美国AI业 数据中心扩建恐受阻",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959332",
+    "pubDate": "2026-11-06T11:21:30.000Z",
+    "category": "Supply Chain",
+    "subheading": "最新",
+    "firstParagraph": "（华盛顿/旧金山综合电）美国民主党在中期选举大获全胜，过去两年受益于特朗普政府支持的人工智能（AI）产业，恐将面临更严格的监管。其中，数据中心扩建计划首当其冲，全美约一半的拟议扩建规模可能受到更严厉的审查。"
+  },
+  {
+    "title": "指法案侵犯言论自由 Meta等社媒巨头起诉加州",
+    "link": "https://www.zaobao.com/news/world/story20261106-9960004",
+    "pubDate": "2026-11-06T10:54:33.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "（纽约综合电）科技巨头谷歌、Meta和TikTok向加利福尼亚州提起诉讼，指责当局计划推行的未成年人社媒限制法案，侵犯社媒平台根据美国宪法第一修正案所享有的权利。"
+  },
+  {
+    "title": "美国国务卿鲁比奥否认辞职传闻 拒谈总统选举",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959987",
+    "pubDate": "2026-11-06T10:38:01.000Z",
+    "category": "American Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "（华盛顿综合电）美国国务卿鲁比奥否认有关他正考虑离开特朗普政府的报道。"
+  },
+  {
+    "title": "厄尔尼诺现象加剧全球暖化 2026年料成史上第二热年份",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959903",
+    "pubDate": "2026-11-06T10:25:51.000Z",
+    "category": "Climate",
+    "subheading": "最新",
+    "firstParagraph": "受异常强烈的厄尔尼诺现象加剧人为全球暖化影响，2026年预计将成为有记录以来第二热的年份，全球气温今年几乎肯定比工业化前水平高出1.5摄氏度。"
+  },
+  {
+    "title": "比利时通过争议移民法 允许警方入屋搜查非法居留者住所",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959760",
+    "pubDate": "2026-11-06T10:09:51.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "比利时国会星期五（11月6日）通过一项具争议的移民法案，允许警方进入部分非法居留者的住所展开搜查。"
+  },
+  {
+    "title": "法国东部校车发生车祸 多人伤亡",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959388",
+    "pubDate": "2026-11-06T09:15:55.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "法国东部一辆校车发生车祸，造成两人伤亡，16人受伤。"
+  },
+  {
+    "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
+    "link": "http://politics.people.com.cn/n1/2026/1106/c1001-40829271.html",
+    "pubDate": "2026-11-06T09:07:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电 外交部发言人11月6日宣布：经中加双方商定，第二次中加经济财金战略对话将于11月9日在加拿大举行。中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜将共同主持对话。"
+  },
+  {
+    "title": "日本网络攻击事件激增 拟成立“网络救援队”加强防御",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959186",
+    "pubDate": "2026-11-06T08:55:10.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "日本近期接连发生黑客入侵和数据泄露事件，政府计划成立由公共和私人领域专家组成的“网络救援队”，协助受攻击企业应对网络安全威胁。"
+  },
+  {
+    "title": "美国制裁柬埔寨太子集团关联企业及个人 打击跨国网络诈骗",
+    "link": "https://www.zaobao.com/news/world/story20261106-9959022",
+    "pubDate": "2026-11-06T08:29:41.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "（金边法新电）美国宣布制裁与柬埔寨太子集团有关联的数十家企业及个人，以及一个涉嫌诈骗美国人的马达加斯加网络诈骗团伙，以打击跨国网络诈骗和洗钱活动。"
+  },
+  {
+    "title": "税收征收管理法修订草案向社会公开征求意见",
+    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829218.html",
+    "pubDate": "2026-11-06T08:17:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电（记者刘开雄）11月6日，税收征收管理法修订草案经十四届全国人大常委会第二十五次会议初次审议后全文公布，面向社会公开征求意见。"
+  },
+  {
+    "title": "特朗普将椭圆形办公室列为国家纪念地 兴建凯旋门计划受阻",
+    "link": "https://www.zaobao.com/news/world/story20261106-9958606",
+    "pubDate": "2026-11-06T08:07:51.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "（华盛顿综合电）美国总统特朗普星期四（11月5日）签署一项命令，把白宫椭圆形办公室和内阁会议室列为国家纪念地。尽管共和党在中期选举中惨败，特朗普仍进一步把重点放在美化白宫上。"
+  },
+  {
+    "title": "驻冲绳美军宵禁措施延长一个月 严格控管美军纪律",
+    "link": "https://www.zaobao.com/news/world/story20261106-9958738",
+    "pubDate": "2026-11-06T07:58:20.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "驻日本冲绳美军星期五（11月6日）宣布，将对全体驻冲绳美军人员实施的宵禁措施延长一个月，直至12月7日，延长措施适用于低军衔军人。"
+  },
+  {
+    "title": "澳洲墨尔本学校附近发生持刀伤人案 三人受伤送院",
+    "link": "https://www.zaobao.com/news/world/story20261106-9958520",
+    "pubDate": "2026-11-06T07:46:26.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "澳大利亚墨尔本东南部一所小学附近星期五发生持刀伤人事件，造成三人受伤送院。"
+  },
+  {
+    "title": "网信部门严查利用AI技术假冒仿冒公众人物问题",
+    "link": "http://society.people.com.cn/n1/2026/1106/c1008-40829153.html",
+    "pubDate": "2026-11-06T07:39:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电记者11月6日从国家网信办获悉，近日，针对利用AI技术假冒仿冒知名公众人物虚假带货、吸粉引流、误导网民等问题，网信部门督促网站平台深入开展集中整治，从严查处违法违规信息和账号，累计清理违法违规信息4.7万余条，处置账号3961个。"
+  },
+  {
+    "title": "外交部：中美要相向而行推动经贸关系持续稳定向好发展",
+    "link": "http://world.people.com.cn/n1/2026/1106/c1002-40829142.html",
+    "pubDate": "2026-11-06T07:27:00.000Z",
+    "category": "Global Economy",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电（记者邵艺博、王慧慧）外交部发言人郭嘉昆6日在例行记者会上回答提问时表示，维护中美经贸关系稳定发展，符合两国和两国人民利益，也有利于全球经济发展。双方要相向而行，坚持互利共赢导向，推动中美经贸关系持续稳定向好发展。"
+  },
+  {
+    "title": "教宗良十四世开启12天南美访问 预计数百万信徒将参与",
+    "link": "https://www.zaobao.com/news/world/story20261106-9958315",
+    "pubDate": "2026-11-06T07:22:47.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "天主教教宗良十四世星期五（11月6日）启程展开为期12天的南美洲访问，预计吸引数百万人参与。"
+  },
+  {
+    "title": "守护山水底色 北京首部生态涵养区五年专项规划正式印发",
+    "link": "http://bj.people.com.cn/n2/2026/1106/c14540-41743762.html",
+    "pubDate": "2026-11-06T07:17:00.000Z",
+    "category": "Supply Chain",
+    "subheading": "",
+    "firstParagraph": "人民网北京11月6日电 （记者池梦蕊）近日，《北京市“十五五”时期生态涵养区发展规划》正式印发实施，这是北京市首部聚焦生态涵养区的五年专项规划。规划立足生态涵养区功能定位，系统擘画未来五年高质量发展蓝图，提出到2030年，生态涵养区生态保护与绿色发展良性互促局面进一步巩固，着力打造展现北京美丽自然山水和历史文化的典范区、生态文明建设的引领区、宜居宜业宜游的绿色发展示范区，生态环境质量显著提升，绿色发展动能持续增强，城乡融合发展纵深推进。"
+  },
+  {
+    "title": "特朗普凯旋门工程刚获批 法官即下令暂缓动工",
+    "link": "https://www.zaobao.com/news/world/story20261106-9958149",
+    "pubDate": "2026-11-06T06:59:58.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "美国总统特朗普推动的巨型凯旋门计划，星期四（11月5日）获国家首都规划委员会以8票对4票通过，但一名联邦法官星期五（6日）凌晨随即颁令，禁止政府在14天内动工。"
+  },
+  {
+    "title": "工业和信息化部：加强智能体终端设备进网管理",
+    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829125.html",
+    "pubDate": "2026-11-06T06:54:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电（记者周圆）工业和信息化部6日对外发布《关于加强智能体终端设备进网管理的通知》，旨在通过完善智能体终端监管规则，强化智能体终端管理，为智能体终端新业态新模式发展提供包容审慎环境。"
+  },
+  {
+    "title": "北京将开始供热系统试运行",
+    "link": "http://society.people.com.cn/n1/2026/1106/c1008-40829114.html",
+    "pubDate": "2026-11-06T06:45:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社北京11月6日电（记者田晨旭）记者6日从北京市城市管理委员会了解到，北京将于11月7日开始供热系统试运行，锅炉房陆续点火，热电联产热网、供热机房陆续投运。"
+  },
+  {
+    "title": "空军八一飞行表演队飞越长城献礼人民空军成立77周年",
+    "link": "http://military.people.com.cn/n1/2026/1106/c1011-40829075.html",
+    "pubDate": "2026-11-06T04:28:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "新华社天津11月6日电（高玉娇、肖航）11月6日上午，空军八一飞行表演队6架歼-10表演机，以密集编队低空山谷飞行的方式，飞越天津黄崖关长城，献礼人民空军成立77周年。"
+  },
+  {
+    "title": "新征程上看应急｜山坳里的脚步声 跑赢了山洪",
+    "link": "http://ah.people.com.cn/n2/2026/1106/c227131-41743567.html",
+    "pubDate": "2026-11-06T02:48:00.000Z",
+    "category": "Infrastructure",
+    "subheading": "",
+    "firstParagraph": "近日，中央网信办网络社会工作局、应急管理部新闻宣传司、国家消防救援局消防监督司联合举办2026年“新征程上看应急”网络宣传和网评引导活动。人民网记者跟随采访团走进安徽省宣城市宣州区，探访偏远山区地质灾害点闭环防灾减灾工作。"
+  },
+  {
     "title": "全国已累计收购秋粮1亿吨",
     "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829056.html",
     "pubDate": "2026-11-06T02:48:00.000Z",
     "category": "Politics",
     "subheading": "",
     "firstParagraph": "记者11月6日从国家发展改革委新闻发布会上获悉，秋粮收购开局平稳，东北地区陆续上量，全国已累计收购秋粮1亿吨，进度与上年基本持平。综合研判，随着我国粮食产能稳步提升，“十五五”时期，每年粮食收购量将继续保持在4亿吨以上。"
-  },
-  {
-    "title": "今冬供暖季能源供应总体能够满足需求",
-    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829051.html",
-    "pubDate": "2026-11-06T02:38:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "记者11月6日从国家发展改革委新闻发布会上获悉，今冬供暖季能源供应总体能够满足需求，人民群众温暖过冬有保障。截至10月底，全国统调电厂存煤超过2.1亿吨，可用36天。今冬供暖季天然气日顶峰保供能力超过17.5亿立方米，较上个供暖季用气峰值高出近7000万立方米。电力方面，预计供暖季全国最高用电负荷将达到15.2亿千瓦左右，较上一供暖季峰值增加约9000万千瓦，常规电源装机同比增加约1亿千瓦，电力供应能力提升总体能够保障需求增长。"
   },
   {
     "title": "黄河实现连续27年不断流",
@@ -24,12 +224,28 @@
     "firstParagraph": "新华社北京11月6日电（记者魏弘毅、高敬）记者从国新办6日举行的治理黄河80年有关情况新闻发布会上获悉，黄河已实现连续27年不断流，干流水质近4年稳定保持Ⅱ类标准，流域重点河湖生态流量达标率90%以上。"
   },
   {
+    "title": "人民建议・豫见青年丨一名学子建言，被纳入河南“留才之策”",
+    "link": "http://henan.people.com.cn/n2/2026/1106/c351638-41743502.html",
+    "pubDate": "2026-11-06T02:20:00.000Z",
+    "category": "Climate",
+    "subheading": "",
+    "firstParagraph": "自10月9日“来和新任河南省委书记周祖翼聊聊您的期盼”征集专区开设以来，人民网“人民建议”已收到一大批河南籍学子和各行各业青年的留言。一条条留言、一份份期盼，正写下中原更加出彩的青春注脚。"
+  },
+  {
     "title": "治理黄河80年来建成水利工程5.4万余个",
     "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829038.html",
     "pubDate": "2026-11-06T02:13:00.000Z",
     "category": "Infrastructure",
     "subheading": "",
     "firstParagraph": "新华社北京11月6日电（记者魏弘毅、高敬）记者从国新办6日举行的新闻发布会上获悉，80年来，党领导人民大力推进黄河流域水利基础设施建设，科学开发利用水能水资源，建成人民胜利渠、引洮供水等工程5.4万余个。"
+  },
+  {
+    "title": "数读中国｜对经济增长贡献率达66.3% 服务业新动能加快成长",
+    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40829003.html",
+    "pubDate": "2026-11-06T01:30:00.000Z",
+    "category": "Politics",
+    "subheading": "",
+    "firstParagraph": "服务业是国民经济的重要支柱，是现代化产业体系的重要构成。2026年前三季度，服务业对经济增长的贡献率达到66.3%，同比提高5.6个百分点。服务业新动能加快成长、标准体系持续完善、服务贸易规模不断扩大。一组数据来看。"
   },
   {
     "title": "美股暴跌蔓延日韩 日经挫逾5% 韩股暴跌8.5%熔断",
@@ -40,12 +256,12 @@
     "firstParagraph": "美国中期选举结果引发的美国科技股抛售潮星期五（11月6日）蔓延至亚洲市场，日本与韩国股市早盘双双暴跌。东京日经225指数早盘重挫5.1%；韩国综合股价指数更是断崖式跳水8.5%，触发熔断机制，导致首尔股市紧急暂停交易20分钟。"
   },
   {
-    "title": "国新办举行新闻发布会 介绍治理黄河80年有关情况",
-    "link": "http://v.people.cn/n1/2026/1106/c408021-40828999.html",
-    "pubDate": "2026-11-06T01:28:00.000Z",
-    "category": "Infrastructure",
+    "title": "让人民建议征集工作更有力度、更有温度",
+    "link": "https://leaders.people.com.cn/n1/2026/1106/c58278-40828992.html",
+    "pubDate": "2026-11-06T01:25:00.000Z",
+    "category": "Politics",
     "subheading": "",
-    "firstParagraph": "showPlayer({scriptId: 'q_v_j-rdmkwfrs7yn', videoInfo: [{\n        src: '//live.people.cn/live/1793928394688008_1920-119.m3u8?vkey=42f3e436caaeb6a6676b3adabe5c9529&vtime=1793943297',\n        type: 'application/x-mpegURL',\n        label: '高清',\n      },{\n        src: '//live.people.cn/live/1793928394688008_1280-115.m3u8?vkey=de7543691ade14d44d06c88d0afe5bd9&vtime=1793943297',\n        type: 'application/x-mpegURL',\n        label: '标清',\n      }], posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1739759454736028/picture/9e43b9ce-9aa5-4dba-b7cf-fb33d5d7e010.jpg', hidPlaybackRates:true, width: 800,height: 450,type: 2, autoPlay: false});"
+    "firstParagraph": "党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》指出，要落实涉及民生重大决策征求群众意见制度；走好网上群众路线，增强党组织通过互联网组织群众、宣传群众、凝聚群众、服务群众的能力，提高党员、干部做网上群众工作的本领。"
   },
   {
     "title": "两部门通报3起整治形式主义为基层减负典型问题",
@@ -72,251 +288,35 @@
     "firstParagraph": "“爱达·花城号”由中国船舶集团有限公司旗下上海外高桥造船有限公司建造，总吨位达14.19万吨，总长341米，拥有2130间客房，满载可容纳5232名旅客。相较于首艘国产大型邮轮“爱达·魔都号”，“爱达·花城号”更大更绿色更智能，同时在邮轮设计装饰、智能科技、服务体验等方面更具“中国风”特色。"
   },
   {
+    "title": "三张开放“名片”",
+    "link": "http://gx.people.com.cn/n2/2026/1106/c179464-41743364.html",
+    "pubDate": "2026-11-06T01:07:00.000Z",
+    "category": "Supply Chain",
+    "subheading": "",
+    "firstParagraph": "人民网南宁11月6日电 （冯肖慧、刘璐瑶）11月5日，第九届中国国际进口博览会（以下简称“进博会”）在上海开幕。洽谈采购与招商推介是进博会的重头戏，当天下午，“投资广西 面向东盟”——广西（上海）招商对接会在广西（上海）产业合作中心举行，旨在以会促贸续写合作新篇。"
+  },
+  {
+    "title": "人民建议丨AI抢饭碗？网友建议设职工转型缓冲期和保障基金",
+    "link": "https://leaders.people.com.cn/n1/2026/1106/c58278-40828946.html",
+    "pubDate": "2026-11-06T01:04:00.000Z",
+    "category": "Supply Chain",
+    "subheading": "",
+    "firstParagraph": "人民网“人民建议”长期开展人民建议网上征集。各地各界群众每一条建言都饱含着对美好生活的殷切期待，特选登部分建议，欢迎更多网友加入讨论，一起为美好生活添砖加瓦。"
+  },
+  {
+    "title": "党建调研行丨赣州：服务送到身边 治理形成合力",
+    "link": "http://jx.people.com.cn/n2/2026/1106/c190260-41743298.html",
+    "pubDate": "2026-11-06T00:59:00.000Z",
+    "category": "Infrastructure",
+    "subheading": "",
+    "firstParagraph": "基层是党的执政之基、力量之源。基层治理千头万绪，堵点难点往往卡在服务群众“最后一米”。江西传承“支部建在连上”光荣传统，坚持问题导向，把加强基层党建工作贯穿城乡基层治理、新就业群体凝聚服务全过程。近日，人民网“党建调研行”赴南昌、萍乡、赣州开展实地调研，聚焦新时代党建引领基层治理现代化，挖掘可复制、可推广的好故事、好经验。"
+  },
+  {
     "title": "冲突与气候灾难交织 全球近9000万难民面临极端气候威胁",
     "link": "https://www.zaobao.com/news/world/story20261106-9956120",
     "pubDate": "2026-11-06T00:49:55.000Z",
     "category": "Climate",
     "subheading": "最新",
     "firstParagraph": "联合国难民署（UNHCR）星期五（11月6日）发表最新报告指出，全球有近9000万被迫流离失所的人生活在那些日益面临气候相关干旱、洪水和极端高温威胁的国家。"
-  },
-  {
-    "title": "梅拉妮亚白宫促成俄乌罕见同台 特朗普称或很快达“全欧大协议”",
-    "link": "https://www.zaobao.com/news/world/story20261106-9956011",
-    "pubDate": "2026-11-06T00:39:07.000Z",
-    "category": "American Politics",
-    "subheading": "最新",
-    "firstParagraph": "美国总统特朗普星期四（11月5日）声称，美国即将与俄罗斯就乌克兰问题乃至“整个欧洲”达成一项重大协议。"
-  },
-  {
-    "title": "贵州大方县：“大地指纹”刻写百业新光景",
-    "link": "http://gz.people.com.cn/n2/2026/1106/c222152-41743150.html",
-    "pubDate": "2026-11-06T00:24:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "夜幕垂落，乌蒙山隐入夜色。奢香古镇的螺旋状梯田上，光影在层层田埂上跃动。“好花红来好花红，好花生在刺梨蓬……”一曲《好花红》，把贵州山野的旋律，唱进这片天然剧场。"
-  },
-  {
-    "title": "指涉及中国间谍活动与国安风险 美议员传召黄仁勋闭门简报",
-    "link": "https://www.zaobao.com/news/world/story20261106-9955971",
-    "pubDate": "2026-11-05T23:59:05.000Z",
-    "category": "Supply Chain",
-    "subheading": "最新",
-    "firstParagraph": "美国国会众议院三名重量级共和党领袖正式致函人工智能（AI）晶片巨头英伟达（Nvidia）首席执行官黄仁勋，要求他在本月中旬前往国会出席闭门简报会，就媒体报道他与一名涉嫌为中国政府搜集情报的新加坡科技公司前高管存在密切往来一事，向国会作出说明。"
-  },
-  {
-    "title": "江苏洪泽如何把“奔县游”流量留下来？",
-    "link": "http://js.people.com.cn/n2/2026/1106/c358232-41743055.html",
-    "pubDate": "2026-11-05T23:35:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "蒋坝老街的晒架上，金黄的稻谷飘着清香；几十公里外，周桥大塘的桑树下，有人举起手机等一场日落，有人端着咖啡坐在竹椅上，看洪泽湖慢慢染上橘色。"
-  },
-  {
-    "title": "纳指重挫逾5.5% 晶片巨头全线暴跌 美中期选举掀AI反思潮",
-    "link": "https://www.zaobao.com/news/world/story20261106-9955881",
-    "pubDate": "2026-11-05T23:29:02.000Z",
-    "category": "Supply Chain",
-    "subheading": "最新",
-    "firstParagraph": "美国中期选举结果引发对人工智能（AI）扩张降温的极度恐慌，触发华尔街科技股星期四（11月5日）遭遇近两年来最惨烈的单日抛售狂潮。以科技股为主的纳斯达克综合指数重挫逾5.5%，市值单日蒸发约2.5万亿美元（约3.2万亿新元），包括苹果、英伟达与特斯拉在内的“科技七巨头”，单日市值累计损失高达1万亿美元（约1.28万亿新元）。"
-  },
-  {
-    "title": "2026“一带一路”媒体合作论坛侧记：同心绘新图 万里奏强音",
-    "link": "http://politics.people.com.cn/n1/2026/1106/c461001-40828619.html",
-    "pubDate": "2026-11-05T22:37:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "山海不远，志合同心。在2026“一带一路”媒体合作论坛上，来自100个国家及国际和地区组织、182家媒体和机构的200余位外方代表，与中方代表一道围绕高质量共建“一带一路”媒体交流合作，在坚定合作共赢、凝聚思想共识、深化内容协作、拥抱技术浪潮、厚植人文情谊等方面共商合作、共谋发展。"
-  },
-  {
-    "title": "大地读书会｜无与伦比的苦难 前所未有的胜利",
-    "link": "http://ent.people.com.cn/n1/2026/1106/c1012-40828614.html",
-    "pubDate": "2026-11-05T22:11:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话中指出：“我们重温历史，是为了汲取奋进的智慧和力量。90年后的今天，再次回望那段苦难辉煌，我们更加深刻认识到，长征胜利是必然的，其中蕴含着党和人民军队铿锵前进的制胜之道。”"
-  },
-  {
-    "title": "内蒙古乌兰察布：“风吹草低见Token”",
-    "link": "http://env.people.com.cn/n1/2026/1106/c1010-40828609.html",
-    "pubDate": "2026-11-05T22:10:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "乌兰察布察哈尔右翼前旗，黄旗海碧波荡漾、景色宜人。　　新华社记者 连 振摄"
-  },
-  {
-    "title": "公积金新政，解锁多样安居场景",
-    "link": "http://society.people.com.cn/n1/2026/1106/c1008-40828612.html",
-    "pubDate": "2026-11-05T22:10:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "图①：江苏常州市住房公积金管理中心，市民在咨询公积金政策。　　新华社记者 季春鹏摄　　图②：内蒙古呼和浩特市玉泉区政务服务中心，市民在工作人员引导下办理住房公积金业务。　　丁根厚摄（人民视觉）　　图③：浙江杭州，市民通过“浙里办”APP办理住房公积金业务。　　聂英好摄"
-  },
-  {
-    "title": "枝叶关情｜如何避免公租房沦为“人情房”",
-    "link": "http://society.people.com.cn/n1/2026/1106/c1008-40828613.html",
-    "pubDate": "2026-11-05T22:10:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "公租房本是为住房困难家庭、新就业无房职工等群体提供的，承载群众“住有所居、居有所安”的向往，是传递党心温度、彰显执政初心的“民心窗口”和检验干部政绩观的“试金石”。可这样的暖心工程，曾经一度出现管理缺位、审核不严、配套滞后、分配不公等现实问题，如同横亘在群众幸福路上的“拦路虎”。"
-  },
-  {
-    "title": "开拓新机遇",
-    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40828594.html",
-    "pubDate": "2026-11-05T22:09:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "观众参观中国出口海外的盾构机“帕蒂加朗号”模型。　　唐 克摄（影像中国）"
-  },
-  {
-    "title": "理论｜以绣花功夫把工作做扎实、做到位",
-    "link": "http://opinion.people.com.cn/n1/2026/1106/c461530-40828602.html",
-    "pubDate": "2026-11-05T22:09:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "绣花，是一门传统的民间手工技艺。穿针引线，皆在方寸之间，细密有致、丝丝入扣，尽显绣者匠心。绣花讲求的是细致，干工作亦当如此。习近平总书记以绣花为喻，强调：“要强化精准思维，做到谋划时统揽大局、操作中细致精当，以绣花功夫把工作做扎实、做到位。”朴实的话语蕴含着深刻的道理：美好图景，要一针一线绘就；干事创业，唯精准精细出彩。大到推进国家战略，小到服务一个社区，都考验着绣花的耐心与功力。"
-  },
-  {
-    "title": "看病不再奔波，安徽芜湖做对了什么",
-    "link": "http://society.people.com.cn/n1/2026/1106/c1008-40828603.html",
-    "pubDate": "2026-11-05T22:09:00.000Z",
-    "category": "Infrastructure",
-    "subheading": "",
-    "firstParagraph": "针对“转诊难、奔波苦”，安徽芜湖市建设会诊转诊服务体系，努力让群众在家门口把病看好"
-  },
-  {
-    "title": "进博会｜扩大合作",
-    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40828590.html",
-    "pubDate": "2026-11-05T22:08:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "汽车及智慧出行展区展出的双人电动垂起飞行汽车。　　本报记者 卢 涛摄"
-  },
-  {
-    "title": "黄土高原小山村结缘碳汇交易",
-    "link": "http://env.people.com.cn/n1/2026/1106/c1010-40828587.html",
-    "pubDate": "2026-11-05T22:08:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "老一辈高西沟人靠着镢头铁锹，治水、开荒。如今的高西沟，小山村有了新变化，旧山沟换了新模样。"
-  },
-  {
-    "title": "母亲河，未来会更美",
-    "link": "http://env.people.com.cn/n1/2026/1106/c1010-40828588.html",
-    "pubDate": "2026-11-05T22:08:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "近日，习近平总书记作出重要指示，强调“牢牢把握重在保护、要在治理的战略要求”“努力让这条母亲河越来越美”，为新征程上持续推进黄河流域生态保护和高质量发展提供了重要遵循。"
-  },
-  {
-    "title": "十四届全国人大常委会第二十五次会议审议多部报告",
-    "link": "http://politics.people.com.cn/n1/2026/1106/c461001-40828573.html",
-    "pubDate": "2026-11-05T22:07:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "11月3日，国务院关于2025年度国有资产管理情况的综合报告提请十四届全国人大常委会第二十五次会议审议。"
-  },
-  {
-    "title": "评论｜服务党的使命任务，打铁必须自身硬",
-    "link": "http://opinion.people.com.cn/n1/2026/1106/c461529-40828574.html",
-    "pubDate": "2026-11-05T22:07:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "“坚持服务使命任务，坚持以党的政治建设为统领，坚持全面从严，坚持问题导向，坚持守正创新，坚持以上率下，坚持依规治党”，党的二十届五中全会明确持之以恒推进全面从严治党遵循的原则。本版今起推出系列评论，与广大读者一道，学习贯彻全会精神，深入理解把握“七个坚持”，更好凝聚奋进力量。"
-  },
-  {
-    "title": "评论｜从“生存下去”到“活得更好”",
-    "link": "http://opinion.people.com.cn/n1/2026/1106/c461529-40828575.html",
-    "pubDate": "2026-11-05T22:07:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "提高生命质量，这是一种深厚的人文关怀，也是社会文明不断进步的生动写照"
-  },
-  {
-    "title": "国务院办公厅关于2027年部分节假日安排的通知",
-    "link": "http://politics.people.com.cn/n1/2026/1106/c1001-40828559.html",
-    "pubDate": "2026-11-05T22:06:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "新华社北京11月5日电  国务院办公厅关于2027年部分节假日安排的通知，全文如下："
-  },
-  {
-    "title": "中国灵感“拼出”世界新意",
-    "link": "https://world.people.com.cn/n1/2026/1106/c1002-40828563.html",
-    "pubDate": "2026-11-05T22:06:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "上海西岸油罐艺术中心，白色罐体外铺开一片乐高积木搭建的花海。38万余朵花植沿着30米长的弧线蜿蜒展开。粉紫与玫红相接，橙黄点缀其间，游客纷纷拍照留念。在第九届进博会消费品展区的展台上，乐高集团把花海的创作灵感化作花店、地铁、城市街角等与日常生活紧密相连的场景，打造一片“愉悦社区”，巧妙地把“用创造联结热爱、在拼搭中享受愉悦”的品牌主张和本届进博会倡导的“快乐经济”理念结合起来。"
-  },
-  {
-    "title": "走进乌镇，看到人工智能的万千模样",
-    "link": "http://finance.people.com.cn/n1/2026/1106/c1004-40828560.html",
-    "pubDate": "2026-11-05T22:06:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "坐上“脑控轮椅”，通过意志即可控制轮椅完成前进、后退、转弯等动作；两台具身机器人在展厅里表演格斗，使出“左勾拳”与“回旋踢”，兼具灵巧与力量……"
-  },
-  {
-    "title": "凝聚共襄民族复兴伟业强大合力",
-    "link": "http://politics.people.com.cn/n1/2026/1106/c461001-40828555.html",
-    "pubDate": "2026-11-05T22:05:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "——各民主党派中央、全国工商联和无党派人士学习贯彻中共二十届五中全会精神夯实共同思想政治基础"
-  },
-  {
-    "title": "特朗普承认伊战是中期选举惨败原因 波斯湾国家忧伊朗比美以更危险",
-    "link": "https://www.zaobao.com/news/world/story20261105-9954717",
-    "pubDate": "2026-11-05T15:42:07.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "（华盛顿/德黑兰综合电）美国总统特朗普在中期选举中受重挫后坦承，自己对伊朗发动战争是导致共和党惨败的原因之一，因为这场战事在短期内促使汽油价格“稍微上涨”；但若重来一次，他还是会选择出手，以彻底杜绝伊朗拥核。"
-  },
-  {
-    "title": "伊朗外长与中东多国外长通话",
-    "link": "https://www.zaobao.com/news/world/story20261105-9955291",
-    "pubDate": "2026-11-05T15:34:50.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "伊朗外交部长阿拉格齐与沙特阿拉伯外长费萨尔通电话，讨论地区相关议题。"
-  },
-  {
-    "title": "法国名画二战遭纳粹掠夺 巴黎法院令归还原主后人",
-    "link": "https://www.zaobao.com/news/world/story20261105-9955019",
-    "pubDate": "2026-11-05T14:52:38.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "法国一家法院星期四（11月5日）裁定，一幅在第二次世界大战期间遭纳粹掠夺的名画，必须归还给画作合法拥有者的后代。"
-  },
-  {
-    "title": "欧盟试推学生“AI素养证书” 助教育行业善用AI",
-    "link": "https://www.zaobao.com/news/world/story20261105-9954975",
-    "pubDate": "2026-11-05T14:39:10.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "欧盟计划面向在校学生试行颁发“人工智能（AI）素养”证书，此举旨在应对快速发展的AI技术对教育领域产生的影响。"
-  },
-  {
-    "title": "日美印澳进行反潜军演 旨在维护印太安全",
-    "link": "https://www.zaobao.com/news/world/story20261105-9954420",
-    "pubDate": "2026-11-05T14:19:38.000Z",
-    "category": "Supply Chain",
-    "subheading": "最新",
-    "firstParagraph": "随着地缘政治局势日益紧张，美国、日本、澳大利亚和印度组成的“四方安全对话”（Quad）近年密集举行联合操演。自星期四（11月5日）起，四国在东京以东海域展开一连八天、代号为“马拉巴尔”（Malabar）的联合军演，以维护“自由的印太区域”为首要目标。"
-  },
-  {
-    "title": "受战争冲击 阿联酋航空上半年利润暴跌逾60%",
-    "link": "https://www.zaobao.com/news/world/story20261105-9954785",
-    "pubDate": "2026-11-05T13:28:41.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "中东地区最大航空公司阿联酋航空集团说，受地区战争引发动荡和燃油价格高企影响，航司上半年利润暴跌66%。"
-  },
-  {
-    "title": "美共和党败选后 欧洲极右翼与特朗普保持距离",
-    "link": "https://www.zaobao.com/news/world/story20261105-9954736",
-    "pubDate": "2026-11-05T13:14:51.000Z",
-    "category": "American Politics",
-    "subheading": "最新",
-    "firstParagraph": "美国总统特朗普所属的共和党在周二（11月3日）的中期选举中惨败后，欧洲极右翼政治人物纷纷开始与他保持距离，但他们大多避免直接批评特朗普本人。"
   }
 ]
