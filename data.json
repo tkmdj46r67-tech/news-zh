@@ -1,5 +1,93 @@
 [
   {
+    "title": "欧洲民航与媒体连遭三波炸弹恐吓 战机护航客机改道引发混合战恐慌",
+    "link": "https://www.zaobao.com/news/world/story20261108-9964943",
+    "pubDate": "2026-11-07T18:04:05.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "（布达佩斯/都柏林/布拉格综合电）欧洲多地周五（11月6日）再接获连环炸弹恐吓，爱尔兰、英国和保加利亚的媒体机构也收到威胁电邮，显示恐吓目标可能正从民航领域扩大至其他领域 。"
+  },
+  {
+    "title": "波兰第二大城克拉科夫发生枪击案 至少五死10伤",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964769",
+    "pubDate": "2026-11-07T15:45:26.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "波兰南部第二大城市克拉科夫发生枪击事件，造成至少五人死亡、10人受伤，枪手已被逮捕。"
+  },
+  {
+    "title": "卷入银行倒闭丑闻 巴拉圭被弹劾前总统接受检方问话",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964740",
+    "pubDate": "2026-11-07T15:24:49.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "巴拉圭前总统培尼亚因涉嫌卷入一场银行业危机遭弹劾下台后，检方开始对他进行问话。"
+  },
+  {
+    "title": "意大利外长称因挺乌遭亲俄黑客泄露个人资料",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964681",
+    "pubDate": "2026-11-07T14:58:37.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "意大利外交部长塔亚尼说，他的个人资料被亲俄罗斯的黑客发布在暗网上，并指这一举动与意大利政府支持乌克兰有关。"
+  },
+  {
+    "title": "美军拟设立特遣部队限制伊朗陆路贸易",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964598",
+    "pubDate": "2026-11-07T14:29:36.000Z",
+    "category": "Supply Chain",
+    "subheading": "最新",
+    "firstParagraph": "在对伊朗实施长达数月的海上封锁后，美国军方据报正组建一支特遣部队，以加强限制德黑兰通过陆路边境和里海运输先进武器系统及其他受制裁物资的力度。"
+  },
+  {
+    "title": "日本组“捍卫战士”精锐战队 阻击黑客巩固网络安全",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964390",
+    "pubDate": "2026-11-07T14:07:35.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "日本政府决定投入100亿日元（约8100万新元），组建中央抗黑客团队，全面应对日益猖獗的网络攻击。"
+  },
+  {
+    "title": "消息人士：数千名叙利亚士兵将部署至沙特与也门 抗击胡塞武装",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964541",
+    "pubDate": "2026-11-07T14:01:52.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "沙特阿拉伯积极争取国际力量协助击退也门胡塞武装之际，多名也门官员透露，数千名叙利亚士兵即将部署至沙特阿拉伯和也门，其中部分人员已经抵达当地。不过，这个消息遭到了叙利亚外交人士的驳斥。"
+  },
+  {
+    "title": "加沙暴雨淹没数万难民帐篷 物资机械短缺阻碍救灾工作",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964511",
+    "pubDate": "2026-11-07T13:34:27.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "加沙地带遭遇连场暴雨，各地营地中数以万计的难民帐篷被淹，不仅避难所被冲毁，毯子和床垫也被浸湿。由于燃料短缺及设备受损，当地市政和民防也无力应对这场暴风雨。"
+  },
+  {
+    "title": "白宫首席顾问：特朗普不会因选举失利而调整经济政策",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964274",
+    "pubDate": "2026-11-07T13:26:33.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "（亚特兰大/华盛顿综合电）美国总统特朗普的首席经济顾问哈塞特表明，虽然共和党在中期选举中失利，但白宫不会因此重新调整经济政策。"
+  },
+  {
+    "title": "特朗普委任新幕僚长 司法部高层纷离职",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964255",
+    "pubDate": "2026-11-07T13:18:41.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "（华盛顿综合电）美国中期选举刚结束，总统特朗普就对核心团队进行重大人事调整，任命亲信米勒（Stephen Miller）接替怀尔斯，出任白宫幕僚长。"
+  },
+  {
+    "title": "美国务卿鲁比奥整顿国务院纪律 收紧控制权",
+    "link": "https://www.zaobao.com/news/world/story20261107-9964425",
+    "pubDate": "2026-11-07T13:04:57.000Z",
+    "category": "American Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "多名知情人士透露，美国国务卿鲁比奥近期正在加强对国务院的控制，并在会议上告诫高级官员所有人必须各司其职、严守本分，避免任何可能引发利益冲突的行为。分析认为，随着特朗普政府民望日益低迷，这是共和党主要人物正试图与本届政府拉开距离。"
+  },
+  {
     "title": "美情报：中国国家安全部招募黄乐收集黄仁勋情报",
     "link": "https://www.zaobao.com/news/world/story20261107-9963812",
     "pubDate": "2026-11-07T11:37:21.000Z",
@@ -152,14 +240,6 @@
     "firstParagraph": "新华社三亚11月7日电 中国第43次南极考察队即将起航执行南极科学考察任务。起航仪式7日上午在三亚南山港科考码头3号泊位举行。"
   },
   {
-    "title": "特朗普：美国将办全球最大航空航天业展会",
-    "link": "https://www.zaobao.com/news/world/story20261107-9962027",
-    "pubDate": "2026-11-07T01:04:00.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "美国总统特朗普说，美国将推出全新航空航天业盛会，规模会超越其他国家现有的同类型展会。"
-  },
-  {
     "title": "涉及家电补贴、文旅、养老……河南打出提振消费“组合拳”",
     "link": "http://henan.people.com.cn/n2/2026/1107/c351638-41744291.html",
     "pubDate": "2026-11-07T01:01:00.000Z",
@@ -176,14 +256,6 @@
     "firstParagraph": "基层是党的执政之基、力量之源。基层治理千头万绪，堵点难点往往卡在服务群众“最后一米”。江西传承“支部建在连上”光荣传统，坚持问题导向，把加强基层党建工作贯穿城乡基层治理、新就业群体凝聚服务全过程。近日，人民网“党建调研行”赴南昌、萍乡、赣州开展实地调研，聚焦新时代党建引领基层治理现代化，挖掘可复制、可推广的好故事、好经验。"
   },
   {
-    "title": "新西兰国会选举开始正式投票 两大政治阵营选情胶着",
-    "link": "https://www.zaobao.com/news/world/story20261107-9961947",
-    "pubDate": "2026-11-07T00:38:51.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "新西兰国会选举开始正式投票。民调显示，国家党领导的执政联盟与工党主导的反对阵营选情胶着。"
-  },
-  {
     "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
     "link": "http://politics.people.com.cn/n1/2026/1107/c1001-40829500.html",
     "pubDate": "2026-11-07T00:19:00.000Z",
@@ -198,38 +270,6 @@
     "category": "Infrastructure",
     "subheading": "",
     "firstParagraph": "“在求学与创业路上，我始终相信技能成才这条路走得通，真刀真枪的比赛磨出了我的真本事‌。”近日，江苏南京，“梧桐论语・思享未来”青年理论宣讲暨职校生大思政课活动现场，南京工业职业技术大学2023届毕业生王美健讲述他的创业故事。"
-  },
-  {
-    "title": "伊媒：伊朗格什姆岛遭两枚导弹击中",
-    "link": "https://www.zaobao.com/news/world/story20261107-9961928",
-    "pubDate": "2026-11-07T00:10:09.000Z",
-    "category": "American Politics",
-    "subheading": "最新",
-    "firstParagraph": "伊朗媒体报道，初步消息显示，两枚导弹击中伊朗位于霍尔木兹海峡的格什姆岛。伊朗军方称，在格什姆岛上空击落一架美军无人机。"
-  },
-  {
-    "title": "指涉伊朗交易 美制裁八家加拿大货币服务公司",
-    "link": "https://www.zaobao.com/news/world/story20261107-9961876",
-    "pubDate": "2026-11-06T23:47:12.000Z",
-    "category": "American Economy",
-    "subheading": "最新",
-    "firstParagraph": "美国财政部以与受制裁伊朗实体交易为由，对八家总部位于加拿大的货币服务公司实施金融制裁。"
-  },
-  {
-    "title": "鲁比奥将赴法参加G7外长会 盟友可借机探察美对外政策走向",
-    "link": "https://www.zaobao.com/news/world/story20261107-9961883",
-    "pubDate": "2026-11-06T23:31:03.000Z",
-    "category": "American Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "美国国务卿鲁比奥将在共和党中期选举惨败后首次出访，到法国参加七国集团（G7）外交部长会议。"
-  },
-  {
-    "title": "【美国中期选举】共和党惨败后 特朗普提拔强硬派心腹任幕僚长",
-    "link": "https://www.zaobao.com/news/world/story20261107-9961844",
-    "pubDate": "2026-11-06T23:03:59.000Z",
-    "category": "American Politics",
-    "subheading": "最新",
-    "firstParagraph": "美国总统特朗普在共和党中期选举惨败后调整白宫人事，任命心腹助手米勒为幕僚长，接替曾助他赢得2024年总统选举的怀尔斯。米勒是特朗普多项强硬国内政策的幕后策划者。"
   },
   {
     "title": "全国消防宣传月活动启动仪式举行",
@@ -278,45 +318,5 @@
     "category": "Politics",
     "subheading": "",
     "firstParagraph": "本报厦门11月6日电  （记者刘阳）11月6日晚，由中国文联、中国影协、厦门市人民政府主办，中共厦门市委宣传部、中国文联电影艺术中心、中国电影出版社有限公司承办的2026年中国金鸡百花电影节开幕式在福建省厦门市闽南大戏院举行。"
-  },
-  {
-    "title": "第九届中国非物质文化遗产博览会开幕",
-    "link": "http://ent.people.com.cn/n1/2026/1107/c1012-40829481.html",
-    "pubDate": "2026-11-06T22:04:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "本报重庆11月6日电  （记者张贺）11月6日，第九届中国非物质文化遗产博览会在重庆市开幕。本届博览会以“保护传承非遗  共享美好生活”为主题，汇聚全国各地890余个非遗项目、930余位传承人，聚焦保护传承，展现文化自信自强新气象。"
-  },
-  {
-    "title": "全国人大常委会举行宪法宣誓仪式",
-    "link": "http://politics.people.com.cn/n1/2026/1107/c1001-40829466.html",
-    "pubDate": "2026-11-06T22:03:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "本报北京11月6日电  （记者彭波）十四届全国人大常委会6日上午在北京人民大会堂举行宪法宣誓仪式。全国人大常委会副委员长李鸿忠主持并监誓。"
-  },
-  {
-    "title": "学习贯彻党的二十届五中全会精神丨 在新征程上创造新的历史伟业",
-    "link": "http://politics.people.com.cn/n1/2026/1107/c461001-40829465.html",
-    "pubDate": "2026-11-06T22:03:00.000Z",
-    "category": "Supply Chain",
-    "subheading": "",
-    "firstParagraph": "——广大知识分子和青年学生积极响应党的二十届五中全会号召勇毅前行"
-  },
-  {
-    "title": "《全球发展报告2026》在京发布",
-    "link": "http://world.people.com.cn/n1/2026/1107/c1002-40829461.html",
-    "pubDate": "2026-11-06T22:03:00.000Z",
-    "category": "Climate",
-    "subheading": "",
-    "firstParagraph": "本报北京11月6日电  （记者陈尚文、关皓宇）由国务院发展研究中心指导、中国国际发展知识中心组织撰写的《全球发展报告2026》6日在京发布。"
-  },
-  {
-    "title": "中国科学家叶玉如获教科文组织国际生命科学研究奖",
-    "link": "http://finance.people.com.cn/n1/2026/1107/c1004-40829442.html",
-    "pubDate": "2026-11-06T22:00:00.000Z",
-    "category": "Politics",
-    "subheading": "",
-    "firstParagraph": "新华社巴黎11月6日电（记者罗毓）当地时间6日下午，第10届“联合国教科文组织-赤道几内亚国际生命科学研究奖”颁奖仪式在联合国教科文组织巴黎总部举行。香港科技大学校长、中国科学院院士叶玉如教授获奖，系第6位获得该奖项的中国科学家。"
   }
 ]
