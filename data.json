@@ -1,5 +1,53 @@
 [
   {
+    "title": "伊朗称一艘载有200万桶石油的超级油轮在波斯湾沉没",
+    "link": "https://www.zaobao.com/news/world/story20261115-10002918",
+    "pubDate": "2026-11-15T15:54:28.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "伊朗伊斯兰革命卫队称，一艘载有超过200万桶石油的超级油轮，在霍尔木兹海峡触雷起火后已经沉没。"
+  },
+  {
+    "title": "爱沙尼亚挫败俄指使纵火案 12月起全面关闭俄边境",
+    "link": "https://www.zaobao.com/news/world/story20261115-10002896",
+    "pubDate": "2026-11-15T15:42:29.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "爱沙尼亚当局称，成功阻止了一起由俄罗斯幕后指使、企图在一家无人机工厂纵火的袭击事件，并宣布将从12月起关闭所有与俄罗斯接壤的边境口岸。"
+  },
+  {
+    "title": "日本收紧移民政策 掀日语考证潮",
+    "link": "https://www.zaobao.com/news/world/story20261115-10002617",
+    "pubDate": "2026-11-15T14:54:31.000Z",
+    "category": "Supply Chain",
+    "subheading": "最新",
+    "firstParagraph": "日本的新移民政策把日语能力列为审核标准之一，促使有意申请长居日本的外国人一窝蜂抢报官方主办的“日本语能力测试”（JLPT）。日媒调查显示，由于考场名额有限，这场突如其来的报考热潮，导致许多急需该证书求职的留学生被拒之门外。"
+  },
+  {
+    "title": "特朗普首谈全美航班停飞事件：都怪拜登政府",
+    "link": "https://www.zaobao.com/news/world/story20261115-10002759",
+    "pubDate": "2026-11-15T14:46:07.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "美国总统特朗普将美国全国航班停飞事件，归咎于前任总统拜登政府搞砸了空中交通管制系统。"
+  },
+  {
+    "title": "几内亚驱逐逾1500名西非非法黄金矿工",
+    "link": "https://www.zaobao.com/news/world/story20261115-10002721",
+    "pubDate": "2026-11-15T14:16:53.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "几内亚加强打击非法采金，据消息人士透露，当局本周驱逐了1557名因非法开采黄金而被捕定罪的西非国家公民。"
+  },
+  {
+    "title": "三艘商船黑海遭无人机击中 罗马尼亚两度升空战机",
+    "link": "https://www.zaobao.com/news/world/story20261115-10002593",
+    "pubDate": "2026-11-15T13:22:04.000Z",
+    "category": "Supply Chain",
+    "subheading": "最新",
+    "firstParagraph": "罗马尼亚总理尼库列斯库说，三艘商船在靠近罗马尼亚的黑海水域遭无人机击中，军方为此两度紧急升空战机应对。"
+  },
+  {
     "title": "韩国税务师考试状元自曝AI作弊 高考监考拉响警报",
     "link": "https://www.zaobao.com/news/world/story20261115-10002514",
     "pubDate": "2026-11-15T13:08:57.000Z",
@@ -144,6 +192,14 @@
     "firstParagraph": "韩国今年国家税务师资格考试的最高分获得者星期天（11月15日）承认，他在考试中利用生成式人工智能（AI）作弊。此前，他的成绩好到令人难以置信。"
   },
   {
+    "title": "广东河源：一方虾塘里的区域生态",
+    "link": "http://gd.people.com.cn/n2/2026/1115/c123932-41751499.html",
+    "pubDate": "2026-11-15T07:07:00.000Z",
+    "category": "Climate",
+    "subheading": "",
+    "firstParagraph": "showPlayer({scriptId: 'q_v_j-p2i6xuf216a', videoInfo: [{\n    src: 'https://video.people.cn/upload/vod/user1739759454736028/1794724158155037/34/1794724229513297video.mp4',\n    type: 'video/mp4',\n    label: '原画',\n  }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1794724158155037/picture/prescreen.png', hidPlaybackRates: true, disableDownload: false, allowSeek: true, autoPlay: false, width: 800,height: 450,type: 1});"
+  },
+  {
     "title": "伊朗海军：霍尔木兹海峡三艘油轮触雷起火",
     "link": "https://www.zaobao.com/news/world/story20261115-10000647",
     "pubDate": "2026-11-15T04:29:08.000Z",
@@ -158,14 +214,6 @@
     "category": "Infrastructure",
     "subheading": "最新",
     "firstParagraph": "一名联邦法官星期六（11月14日）下令，华盛顿特区一座河畔公共公园必须继续向公众开放，不能按照美国总统特朗普的要求关闭公园进行翻修。"
-  },
-  {
-    "title": "莫斯科证实中美俄三国元首将在深圳会晤",
-    "link": "https://www.zaobao.com/news/world/story20261115-10000558",
-    "pubDate": "2026-11-15T04:08:51.000Z",
-    "category": "American Politics",
-    "subheading": "最新",
-    "firstParagraph": "俄罗斯官方证实，俄罗斯总统普京将于下周在深圳举行的峰会上，与中国国家主席习近平和美国总统特朗普出席一场具有历史意义的会晤。"
   },
   {
     "title": "全国艺联2026“艺术新作·冬暖主题影展”启幕",
@@ -184,14 +232,6 @@
     "firstParagraph": "新华社银川11月15日电（记者谢建雯）记者从宁夏回族自治区气象局获悉，受东移南下冷空气和暖湿气流共同影响，14日夜间起，宁夏迎来今年立冬后首场全区性雨雪降温天气过程，部分地区发布暴雪橙色预警信号。"
   },
   {
-    "title": "沙特联军称拦截两枚胡塞武装射向利雅得的导弹",
-    "link": "https://www.zaobao.com/news/world/story20261115-10000525",
-    "pubDate": "2026-11-15T04:05:25.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "沙特领导、旨在打击也门胡塞武装的联军星期天（11月15日）说，已拦截并摧毁两枚由胡塞武装向沙特首都利雅得发射的弹道导弹。"
-  },
-  {
     "title": "重庆：一条留言牵出出行关切规范进站呵护老年乘客",
     "link": "http://cq.people.com.cn/n2/2026/1115/c365401-41751445.html",
     "pubDate": "2026-11-15T02:42:00.000Z",
@@ -208,28 +248,12 @@
     "firstParagraph": "新华社深圳11月15日电（记者潘洁、杨深深）在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、日本等经济体商协会负责人也将到场，共襄盛举。"
   },
   {
-    "title": "美国五角大楼考虑缩小欧洲驻军裁减规模",
-    "link": "https://www.zaobao.com/news/world/story20261115-10000170",
-    "pubDate": "2026-11-15T02:13:00.000Z",
-    "category": "American Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "（华盛顿彭博电）据知情人士透露，尽管美国特朗普政府计划削减驻欧洲约8万名美军中的部分兵力，但实际裁减规模可能小于欧洲各国领导人担忧的程度。"
-  },
-  {
     "title": "从“一滴水”到“一束火”",
     "link": "http://fj.people.com.cn/n2/2026/1115/c181466-41751365.html",
     "pubDate": "2026-11-15T01:30:00.000Z",
     "category": "Climate",
     "subheading": "",
     "firstParagraph": "11月13日晚，三明市体育中心内光影流转，舞台上的“江水”缓缓“流淌”，氤氲着一场八闽盛会——福建省第十八届运动会开幕式在此举行。"
-  },
-  {
-    "title": "以色列军方空袭致哈马斯一名高级指挥官身亡",
-    "link": "https://www.zaobao.com/news/world/story20261115-10000049",
-    "pubDate": "2026-11-15T01:09:36.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "以色列军方星期天（11月15日）说，以军袭击了哈马斯军事派别的一名高级成员。巴勒斯坦方面消息人士证实，哈马斯一名指挥官在加沙地带南部身亡。"
   },
   {
     "title": "人民建议丨网友建言完善非机动车通行环境 长春将积极推进",
@@ -240,28 +264,12 @@
     "firstParagraph": "人民网长春11月15日电 （记者王海跃）今年年初，“我为‘十五五’开年献一策”吉林省人民建议征集活动在人民网“领导留言板”正式启动，吉林社会各界群众为“十五五”期间吉林实现全面振兴取得新突破提供了不少“金点子”。"
   },
   {
-    "title": "微软宣布全球服务已全面恢复",
-    "link": "https://www.zaobao.com/news/world/story20261115-9999898",
-    "pubDate": "2026-11-15T00:59:16.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "科技巨头微软星期六（11月14日）说，造成混乱的大规模系统故障基本结束，目前已“恢复服务”。"
-  },
-  {
     "title": "一江碧水·十年蝶变｜老码头，新腔调",
     "link": "http://hb.people.com.cn/n2/2026/1115/c194063-41751294.html",
     "pubDate": "2026-11-15T00:57:00.000Z",
     "category": "Climate",
     "subheading": "",
     "firstParagraph": "showPlayer({scriptId: 'q_v_j-wrwcg04tqp', videoInfo: [{\n    src: 'https://video.people.cn/upload/vod/user1739759454736028/1794704175700139/origin.mp4',\n    type: 'video/mp4',\n    label: '源视频',\n  }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1794704175700139/picture/prescreen.png', hidPlaybackRates: true, disableDownload: false, allowSeek: true, autoPlay: false, width: 360,height: 640,type: 1});"
-  },
-  {
-    "title": "马克龙：减少对乌克兰援助 将为更多战争埋雷",
-    "link": "https://www.zaobao.com/news/world/story20261115-9999873",
-    "pubDate": "2026-11-14T23:25:54.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "法国总统马克龙星期六（11月14日）说，试图限制对乌克兰提供援助的国家，实际上是在迫使乌克兰接受一项“不公正的和平协议”，并警告称，这将为下一场战争埋下隐患。"
   },
   {
     "title": "评论丨投资大湾区，共创美好未来",
@@ -310,13 +318,5 @@
     "category": "Politics",
     "subheading": "",
     "firstParagraph": "习近平总书记在纪念中国工农红军长征胜利90周年大会上指出：“人民群众永远是党和人民军队的力量源泉和坚强后盾”。“半条被子”的故事，正是党同人民保持血肉联系的生动见证。"
-  },
-  {
-    "title": "何为导师：教是为了不教",
-    "link": "http://edu.people.com.cn/n1/2026/1115/c1006-40833902.html",
-    "pubDate": "2026-11-14T21:41:00.000Z",
-    "category": "Infrastructure",
-    "subheading": "",
-    "firstParagraph": "不少研究生跨过考研关口、迈入科研阶段后，常会生出这样的疑问：终日研读文献、开展实验，却难以找准科研的发力点，当下的积累该如何对接长远的发展方向？"
   }
 ]
