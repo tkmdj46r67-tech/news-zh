@@ -1,7 +1,119 @@
 [
   {
+    "title": "美媒：FBI关键犯罪信息数据库疑遭黑客入侵",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10035224",
+    "pubDate": "2026-11-21T05:36:59.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "知情人士透露，美国联邦调查局的重要犯罪信息数据库疑似遭到黑客入侵，这是近几个月来发生的第二起此类安全漏洞事件。"
+  },
+  {
+    "title": "消息：美证券交易委员会重点调查英伟达会计操作",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034930",
+    "pubDate": "2026-11-21T05:19:27.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "美国晶片巨头英伟达的法律困境进一步加深，知情人士透露，美国证券交易委员会正在调查这家公司的会计操作。"
+  },
+  {
+    "title": "部分核心议题未达共识 COP31进入加时阶段",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034748",
+    "pubDate": "2026-11-21T03:56:08.000Z",
+    "category": "Climate",
+    "subheading": "最新",
+    "firstParagraph": "由于与会各方未能就部分核心议题达成一致，第31届联合国气候变化大会进入加时阶段。"
+  },
+  {
+    "title": "黄河内蒙古段进入2026至2027年度凌汛期",
+    "link": "http://society.people.com.cn/n1/2026/1121/c1008-40838134.html",
+    "pubDate": "2026-11-21T03:37:00.000Z",
+    "category": "Infrastructure",
+    "subheading": "",
+    "firstParagraph": "新华社呼和浩特11月21日电（记者恩浩、王靖）记者从内蒙古自治区防汛抗旱指挥部办公室了解到，受近期冷空气过程影响，11月21日8时，黄河包头市五犋牛河段至呼和浩特市喇嘛湾大桥河段出现流凌，流凌密度约5%，流凌长度累计34千米。首凌日期与常年持平，较去年偏晚2天。这标志着黄河内蒙古段进入2026至2027年度凌汛期。"
+  },
+  {
+    "title": "伊朗称仍愿与美达成协议 特朗普称协议条件难接受",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034523",
+    "pubDate": "2026-11-21T02:10:04.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "伊朗外交部长阿拉格齐说，德黑兰依然希望通过外交途径结束与美国的战争。美国总统特朗普则说，伊朗想达成协议，但不想达成他能接受的协议。"
+  },
+  {
+    "title": "秘鲁发生6.7级地震 首都等地震感强烈",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034502",
+    "pubDate": "2026-11-21T01:20:22.000Z",
+    "category": "Foreign Policy",
+    "subheading": "最新",
+    "firstParagraph": "秘鲁发生6.7级地震，首都利马等地震感强烈。"
+  },
+  {
+    "title": "胡塞武装再袭利雅得 沙特联军拦截三枚弹道导弹",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034496",
+    "pubDate": "2026-11-21T01:16:20.000Z",
+    "category": "Infrastructure",
+    "subheading": "最新",
+    "firstParagraph": "沙特阿拉伯领导的多国联军说，拦截并摧毁了三枚也门胡塞武装组织射向利雅得的弹道导弹。"
+  },
+  {
+    "title": "特朗普：美科技公司若在别国建数据中心 会面临巨额税款",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034429",
+    "pubDate": "2026-11-21T01:11:14.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "美国总统特朗普说，如果美国科技公司在其他国家建设人工智能（AI）数据中心，将面临“巨额税款”。"
+  },
+  {
+    "title": "探访高铁维修车间：感受速度与坚守",
+    "link": "http://finance.people.com.cn/n1/2026/1121/c1004-40838109.html",
+    "pubDate": "2026-11-21T01:07:00.000Z",
+    "category": "Infrastructure",
+    "subheading": "",
+    "firstParagraph": "初冬的上午，阳光铺洒在冀南平原的轨道线上，在衡水南站西侧的衡水南高铁综合维修车间演练场上，一场接触网异物处置实战演练正紧张有序地进行。"
+  },
+  {
+    "title": "改造“太粗放”，居民“心不畅” 黑龙江相关部门积极回应整改",
+    "link": "http://hlj.people.com.cn/n2/2026/1121/c220005-41756847.html",
+    "pubDate": "2026-11-21T00:27:00.000Z",
+    "category": "Infrastructure",
+    "subheading": "",
+    "firstParagraph": "人民网哈尔滨11月21日电 （记者王思迪）民生改造项目本是惠民利民的好事，可一些项目在施工中却暴露出“粗放”的一面：有的施工损坏居民私人设施，有的导致道路损坏、通行不畅，让原本期盼改善居住环境的居民心里添了堵。围绕群众反映的问题，黑龙江相关部门积极回应、推动整改，努力把惠民工程做得更精细、更暖心。"
+  },
+  {
+    "title": "英欧二次峰会就多个领域达成逾70项共识",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034390",
+    "pubDate": "2026-11-21T00:19:59.000Z",
+    "category": "Climate",
+    "subheading": "最新",
+    "firstParagraph": "英国与欧盟领导人举行第二次峰会，在贸易、安全防务、碳排放和青年交流等多个领域达成数十项共识。"
+  },
+  {
+    "title": "特朗普未收回对普京“朋友”称呼 但回避上升至国家层面",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034317",
+    "pubDate": "2026-11-21T00:03:47.000Z",
+    "category": "American Politics",
+    "subheading": "最新",
+    "firstParagraph": "美国总统特朗普为称呼俄罗斯总统普京为“朋友”辩护，但认为对普京是不是美国的朋友无法置评。"
+  },
+  {
+    "title": "贝森特：美中元首一致同意 涉AI军事决策须有人类参与",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034373",
+    "pubDate": "2026-11-20T23:51:19.000Z",
+    "category": "American Economy",
+    "subheading": "最新",
+    "firstParagraph": "美国财政部长贝森特说，美中领导人一致认为，即使两国在人工智能（AI）领域展开竞争，在使用AI的军事决策中也应该始终有人类参与。"
+  },
+  {
+    "title": "特朗普：仍相信卢特尼克 望黄仁勋郑重道歉并回归",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034365",
+    "pubDate": "2026-11-20T23:40:19.000Z",
+    "category": "American Economy",
+    "subheading": "最新",
+    "firstParagraph": "美国总统特朗普说，他依然支持近期备受质疑的商务部长卢特尼克，也希望前英伟达首席执行官黄仁勋能郑重道歉后回归公司。"
+  },
+  {
     "title": "美共和党参议员：黄仁勋同意出席参院公开听证会",
-    "link": "https://www.zaobao.com/news/world/story20261121-10034291",
+    "link": "https://www.zaobao.com.sg/news/world/story20261121-10034291",
     "pubDate": "2026-11-20T23:07:55.000Z",
     "category": "American Politics",
     "subheading": "最新",
@@ -80,20 +192,20 @@
     "firstParagraph": "本报郑州11月20日电  （记者何思琦）11月20日，由中央精神文明建设办公室、中央网信办、教育部等部门组织发起的“网络文明大讲堂·数字里的文化遗产”专场活动在河南郑州举办。"
   },
   {
-    "title": "评论丨同在一条船上，就要有“共同体意识”",
-    "link": "http://opinion.people.com.cn/n1/2026/1121/c461529-40837967.html",
-    "pubDate": "2026-11-20T22:15:00.000Z",
-    "category": "Infrastructure",
-    "subheading": "",
-    "firstParagraph": "在巴布亚新几内亚西部省的雨林中，中国企业承建的沥青路把村镇与外界相连。当地种植户托马斯说，路通了，香蕉卖出好价钱，“这条路就是我们的‘生命线’”。"
-  },
-  {
     "title": "财政部在香港成功发行美元主权债券",
     "link": "http://finance.people.com.cn/n1/2026/1121/c1004-40837969.html",
     "pubDate": "2026-11-20T22:15:00.000Z",
     "category": "Infrastructure",
     "subheading": "",
     "firstParagraph": "本报香港11月20日电  （记者冯学知）财政部2026年美元主权债券发行仪式20日在香港金融管理局举行。财政部有关负责人宣布，财政部代表中央政府于11月19日成功在香港发行了20亿美元主权债券，国际投资者认购踊跃，总认购金额723亿美元，是发行金额的36倍。"
+  },
+  {
+    "title": "评论丨同在一条船上，就要有“共同体意识”",
+    "link": "http://opinion.people.com.cn/n1/2026/1121/c461529-40837967.html",
+    "pubDate": "2026-11-20T22:15:00.000Z",
+    "category": "Infrastructure",
+    "subheading": "",
+    "firstParagraph": "在巴布亚新几内亚西部省的雨林中，中国企业承建的沥青路把村镇与外界相连。当地种植户托马斯说，路通了，香蕉卖出好价钱，“这条路就是我们的‘生命线’”。"
   },
   {
     "title": "累计下载量突破100亿次 国产大模型引领全球开源生态",
@@ -120,8 +232,16 @@
     "firstParagraph": "“深圳APEC会议进一步推动各方加强对话、深化产业合作，把建设亚太共同体的愿景转化为企业能够参与、受益的具体项目。”墨西哥外贸、投资和技术委员会墨中分委会主席拉斐尔·巴尔德斯日前在接受本报记者专访时说。"
   },
   {
+    "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+    "link": "http://world.people.com.cn/n1/2026/1121/c1002-40837945.html",
+    "pubDate": "2026-11-20T21:31:00.000Z",
+    "category": "American Politics",
+    "subheading": "",
+    "firstParagraph": "新华社华盛顿11月20日电（记者黄强 徐剑梅）美国总统特朗普20日在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义的国际峰会之一”。"
+  },
+  {
     "title": "中东战事推高燃油成本 德国汉莎航空拟裁员千人",
-    "link": "https://www.zaobao.com/news/world/story20261120-10033912",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10033912",
     "pubDate": "2026-11-20T15:45:50.000Z",
     "category": "Infrastructure",
     "subheading": "最新",
@@ -129,7 +249,7 @@
   },
   {
     "title": "众议院报告指美国半年内对华销售大量人工智能晶片",
-    "link": "https://www.zaobao.com/news/world/story20261120-10033485",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10033485",
     "pubDate": "2026-11-20T15:28:21.000Z",
     "category": "Supply Chain",
     "subheading": "最新",
@@ -137,7 +257,7 @@
   },
   {
     "title": "警惕美中俄靠拢 日相高市早苗外交面临严峻考验",
-    "link": "https://www.zaobao.com/news/world/story20261120-10033572",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10033572",
     "pubDate": "2026-11-20T15:18:37.000Z",
     "category": "Infrastructure",
     "subheading": "最新",
@@ -145,7 +265,7 @@
   },
   {
     "title": "肯尼亚七头河马接连死亡 部分疑误食渔网致命",
-    "link": "https://www.zaobao.com/news/world/story20261120-10033793",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10033793",
     "pubDate": "2026-11-20T15:00:26.000Z",
     "category": "Climate",
     "subheading": "最新",
@@ -153,15 +273,15 @@
   },
   {
     "title": "乌克兰今年逾1100儿童死伤 创三年多来新高",
-    "link": "https://www.zaobao.com/news/world/story20261120-10033681",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10033681",
     "pubDate": "2026-11-20T14:51:44.000Z",
     "category": "Foreign Policy",
     "subheading": "最新",
     "firstParagraph": "联合国儿童基金会指出，今年以来乌克兰已有至少1144名儿童因战事死亡或受伤，平均每天超过三人，写下三年多来最高纪录。"
   },
   {
-    "title": "特朗普给深圳峰会打12分 分析：外交排场盛大却无实质成果",
-    "link": "https://www.zaobao.com/news/world/story20261120-10032284",
+    "title": "特朗普给中美俄峰会打12分 分析：外交排场盛大却无实质成果",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10032284",
     "pubDate": "2026-11-20T14:12:50.000Z",
     "category": "Infrastructure",
     "subheading": "最新",
@@ -169,7 +289,7 @@
   },
   {
     "title": "沙特联军警告撤离也门港口 胡塞武装扬言袭击吉达",
-    "link": "https://www.zaobao.com/news/world/story20261120-10033471",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10033471",
     "pubDate": "2026-11-20T13:58:51.000Z",
     "category": "Infrastructure",
     "subheading": "最新",
@@ -177,7 +297,7 @@
   },
   {
     "title": "库什纳：若符合美国利益 特朗普愿向乌克兰提供北约式保障",
-    "link": "https://www.zaobao.com/news/world/story20261120-10032286",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10032286",
     "pubDate": "2026-11-20T12:19:01.000Z",
     "category": "American Politics",
     "subheading": "最新",
@@ -185,7 +305,7 @@
   },
   {
     "title": "意大利爆发全国大罢工 数千学生与工人抗议政府经济政策",
-    "link": "https://www.zaobao.com/news/world/story20261120-10032673",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10032673",
     "pubDate": "2026-11-20T11:59:19.000Z",
     "category": "Infrastructure",
     "subheading": "最新",
@@ -193,114 +313,10 @@
   },
   {
     "title": "美国拟立法禁中国汽车进口 考虑豁免马赛地",
-    "link": "https://www.zaobao.com/news/world/story20261120-10031578",
+    "link": "https://www.zaobao.com.sg/news/world/story20261120-10031578",
     "pubDate": "2026-11-20T11:02:02.000Z",
     "category": "Supply Chain",
     "subheading": "最新",
     "firstParagraph": "（华盛顿综合电）彭博社星期五（11月20日）引述消息人士的话报道，美国两党国会议员正接近达成一项协议，准备立法禁止中国汽车进入美国市场。"
-  },
-  {
-    "title": "欧洲商用冷藏设备接连遭网络攻击 英国修复系统漏洞",
-    "link": "https://www.zaobao.com/news/world/story20261120-10032481",
-    "pubDate": "2026-11-20T10:56:44.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "欧洲多国商用冷藏设备近期接连遭网络攻击，导致大量食品报废，损失达数百万欧元。英国网络安全专家发现当地商用冷藏系统也存在安全漏洞，目前已完成修复，以防止类似袭击。"
-  },
-  {
-    "title": "伊拉克政府军进驻亲伊朗民兵据点 双方妥协避免冲突",
-    "link": "https://www.zaobao.com/news/world/story20261120-10032238",
-    "pubDate": "2026-11-20T10:50:12.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "伊拉克政府安全部队星期五进入亲伊朗武装组织“真主党旅”的主要据点。双方据报达成妥协，允许政府军进驻，同时保留民兵在当地的存在，以避免爆发武装冲突。"
-  },
-  {
-    "title": "美军对伊战争开支逾600亿新元 特朗普称明年再定下一步",
-    "link": "https://www.zaobao.com/news/world/story20261120-10031037",
-    "pubDate": "2026-11-20T09:48:46.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "（华盛顿综合电）美国对伊朗战争的开支已攀升至483亿美元（约623亿新元），这还未计入驻中东美军基地受袭击所造成的损失。在战费持续飙升之际，美国总统特朗普说，他不急于决定是否发动新一轮的大规模打击；美参议院也否决一项限制总统继续对伊用兵的决议案。"
-  },
-  {
-    "title": "俄罗斯拒绝乌克兰变相加入北约 坚持乌不得入盟",
-    "link": "https://www.zaobao.com/news/world/story20261120-10031903",
-    "pubDate": "2026-11-20T09:33:29.000Z",
-    "category": "American Politics",
-    "subheading": "最新",
-    "firstParagraph": "俄罗斯重申，绝不接受乌克兰以任何变相形式加入北大西洋公约组织，并反对向乌克兰提供类似北约集体防御条款的安全保障，强调乌克兰不得加入北约是俄方不可改变的要求。"
-  },
-  {
-    "title": "COP31草案删除化石燃料表述 各国分歧严重谈判或延长",
-    "link": "https://www.zaobao.com/news/world/story20261120-10030960",
-    "pubDate": "2026-11-20T09:06:15.000Z",
-    "category": "Climate",
-    "subheading": "最新",
-    "firstParagraph": "（安塔利亚综合电）第31届联合国气候变化大会（COP31）谈判星期五（11月20日）进入最后阶段。由于最新公布的协议草案删除所有化石燃料表述，近200国谈判代表正竭力弥合各方的严重分歧，谈判很可能延续至周末。"
-  },
-  {
-    "title": "俄军大规模空袭乌克兰 基辅至少三死15伤",
-    "link": "https://www.zaobao.com/news/world/story20261120-10031051",
-    "pubDate": "2026-11-20T07:52:28.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "俄罗斯连夜向乌克兰发动大规模导弹和无人机袭击， 造成至少八人死亡、28人受伤，部分地区停电，多座桥梁遭袭。"
-  },
-  {
-    "title": "波兰军方调查不明物体坠落乌克兰边境事件",
-    "link": "https://www.zaobao.com/news/world/story20261120-10030819",
-    "pubDate": "2026-11-20T07:11:15.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "波兰军方接获通报，指距乌克兰边境约45公里处可能有不明物体坠落。波兰武装部队作战司令部发言人戈里舍夫斯基告诉波兰电视台TVN24，军方正对此展开调查。"
-  },
-  {
-    "title": "防AI虚假信息干扰欧洲大选 TikTok全球推深伪检测工具",
-    "link": "https://www.zaobao.com/news/world/story20261120-10030214",
-    "pubDate": "2026-11-20T05:41:03.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "意大利、法国和希腊等欧洲多国明年将迎来一系列重要选举，短视频平台TikTok星期五宣布，在全球范围内推出面向公众人物的深伪（deepfake）检测工具，以期在选举前夕有效遏制人工智能（AI）生成的虚假信息扩散。"
-  },
-  {
-    "title": "首尔地铁工会展开“守法怠工” 下周或无限期罢工",
-    "link": "https://www.zaobao.com/news/world/story20261120-10030108",
-    "pubDate": "2026-11-20T05:24:05.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "韩国首尔地铁工会星期五凌晨起开展“守法怠工”行动，向资方施压，要求扩充人力、上调薪资并撤回裁员计划。若劳资双方未能达成共识，工会计划于本月25日起发起无限期总罢工。"
-  },
-  {
-    "title": "西澳风暴扰乱收割 大麦和油菜籽产量预测下调",
-    "link": "https://www.zaobao.com/news/world/story20261120-10029849",
-    "pubDate": "2026-11-20T04:36:07.000Z",
-    "category": "Supply Chain",
-    "subheading": "最新",
-    "firstParagraph": "西澳大利亚州的业界组织说，2026年小麦收成预测与一个月前大致持平；不过，接连发生的风暴扰乱收割工作，大麦和油菜籽产量预测因此下调。"
-  },
-  {
-    "title": "国内政治动荡与选举失利 特朗普借亚洲之行寻求外交突破",
-    "link": "https://www.zaobao.com/news/world/story20261120-10029766",
-    "pubDate": "2026-11-20T04:31:36.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "在共和党于美国中期选举中遭遇重挫后，美国总统特朗普近期展开了为期三天的亚洲之行。《华尔街日报》报道指出，由于已无连任竞选压力且任期仅剩两年多，加之在华盛顿的影响力逐渐减弱，特朗普正试图通过在海外达成前任们未能实现的外交突破，借此巩固政治遗产。"
-  },
-  {
-    "title": "IEA：全球制冷需求首超供暖 东南亚能源需求增幅居首",
-    "link": "https://www.zaobao.com/news/world/story20261120-10029677",
-    "pubDate": "2026-11-20T04:18:50.000Z",
-    "category": "Foreign Policy",
-    "subheading": "最新",
-    "firstParagraph": "彭博社报道，国际能源署说，随着收入和气温上升，空调使用量激增，全球建筑制冷需求首次超过供暖需求。"
-  },
-  {
-    "title": "德国汽车业劳资纠纷升级 奥迪宝马等车厂面临罢工",
-    "link": "https://www.zaobao.com/news/world/story20261120-10029413",
-    "pubDate": "2026-11-20T03:38:31.000Z",
-    "category": "Infrastructure",
-    "subheading": "最新",
-    "firstParagraph": "彭博社报道，德国汽车业劳资纠纷扩大，大众汽车旗下奥迪、宝马等主要车厂本周将面临24小时罢工。工人已表决支持罢工行动，争议涉及薪资、福利和工时。"
   }
 ]
